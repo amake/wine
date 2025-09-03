@@ -1,4 +1,4 @@
-FROM amake/x11client:buster
+FROM amake/x11client:trixie
 MAINTAINER Aaron Madlon-Kay <aaron@madlon-kay.com>
 
 # Inspired by monokrome/wine
